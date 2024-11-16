@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@300;500;900&display=swap');
+
+:root {
+  --bitcoin-orange: #F7931A;
+  --soft-orange: #ffe9d4;
+  --secondary-blue: #1a94f7;
+  --warm-black: #201e1c;
+  --black: #282623;
+  --grey: #757575;
+  --light-grey: #808080;
+  --off-white: #faf8f7;
+  --just-white: #fff;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+}
